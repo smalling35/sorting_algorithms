@@ -1,0 +1,1 @@
+This is the countinuously of Data structure learning in our way to becoming software engineer and this time around we shall be learning all the sorting algorithms using different technique. And I cannot wait to get started!
